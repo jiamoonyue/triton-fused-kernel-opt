@@ -1,0 +1,5 @@
+*.ncu-rep
+*.nsys-rep
+__pycache__/
+model/
+*.pyc
